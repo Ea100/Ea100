@@ -28,13 +28,18 @@ This project demonstrates the practical implementation of cybersecurity concepts
 ![Windows 10 completed VM](https://github.com/user-attachments/assets/d8c429a4-650b-429b-89c7-038526c2e667)
 ![Ping Test](https://github.com/user-attachments/assets/2721d44a-f625-46e9-be76-b1f2ef5302bd)
 
-
-
 ### Tools Used
 ---
 - VirtualBox (Type 2 Hypervisor): Used to create and manage virtual machines
 - Kali Linux (Attacker VM)
 - Windows 10 (Target VM): Simulates a vulnerable system for security testing
+
+### Virtual Machine Configuration
+---
+- RAM: 2 GB
+- Storage: 20 GB (dynamically allocated)
+- Processor: 2 virtual CPUs
+- BIOS Virtualization: Enabled in host system to support VM performance
 
 **Ea100/Ea100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
