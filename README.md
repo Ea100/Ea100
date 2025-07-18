@@ -15,7 +15,7 @@ As part of my cybersecurity training, I worked on this project to put theory int
 
 [Networking Setup](#Networking-Setup)
 
-[Android Forensics](#Android Forensics)
+[Android Forensics](#Android-Forensics)
 
 ### Project Overview
 ---
@@ -55,6 +55,7 @@ This project demonstrates the practical implementation of cybersecurity concepts
 ---
  1. Verified network setup by running ping from Kali to the Windows VM.
  2. Conducted basic service enumeration using nmap on Kali to scan open ports and running services on the Windows VM.
+
 
 ### Android Forensics
 
