@@ -7,9 +7,13 @@ As part of my cybersecurity training, I worked on this project to put theory int
 
 [Cyber Lab Setup](#Cyber-Lab-Setup)
 
+[Screenshots & Configuration Evidence](#Screenshots-&-Configuration-Evidence)
+
 [Tools Used](#tools-used)
 
-[Exploratory Data Analysis](#exploratory-data-analysis)
+[Virtual Machine Configuration](#Virtual-Machine-Configuration)
+
+[Networking Setup](#Networking-Setup)
 
 [Data Analysis](#data-analysis)
 
@@ -40,6 +44,8 @@ This project demonstrates the practical implementation of cybersecurity concepts
 - Storage: 20 GB (dynamically allocated)
 - Processor: 2 virtual CPUs
 - BIOS Virtualization: Enabled in host system to support VM performance
+
+### Networking Setup
 
 **Ea100/Ea100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
