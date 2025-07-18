@@ -1,11 +1,11 @@
 # Cyber Security_Capstone_Project
-This project demonstrates the practical implementation of cybersecurity concepts learned over the three-month training program.  It entails establishing a fully functional virtual cybersecurity lab as well as conducting a forensic investigation of an Android image with industry-standard tools.  The objective is to replicate real-world circumstances for threat analysis, evidence extraction, and secure network design.
+As part of my cybersecurity training, I worked on this project to put theory into practice. It focuses on building a virtual lab environment and analyzing a mobile forensic image using real-world tools
 
 ### Project Title: Building a Virtual Cybersecurity Laboratory and Conducting Android Forensics Investigations
 
 [Project Overview](#project-overview)
 
-[Data Sources](#data-sources)
+[Cyber Lab Setup](#data-sources)
 
 [Tools Used](#tools-used)
 
@@ -15,8 +15,21 @@ This project demonstrates the practical implementation of cybersecurity concepts
 
 ### Project Overview
 ---
-This project explores a retail store's sales data to gain insights into product performance, regional sales, and monthly trends. The analysis began with Excel, using pivot tables and formulas to identify key metrics and sales patterns. SQL queries were then used to uncover additional insights, including product category totals, top customers, and regional contributions. Finally, an interactive Power BI dashboard was created to visually represent the findings, helping to identify high-performing products and trends across different regions.
+This project demonstrates the practical implementation of cybersecurity concepts learned over the three-month training program.  It entails establishing a fully functional virtual cybersecurity lab as well as conducting a forensic investigation of an Android image with industry-standard tools.  The objective is to replicate real-world circumstances for threat analysis, evidence extraction, and secure network design..
 
+### Cyber Lab Setup - Tools, Networking, and Configuration Notes
+---
+
+
+### Tools Used
+---
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualization
+- SQL – Structured Query Language for querying of Data
+- PowerBI - Used for creating an interactive dashboard to visualize key insights
+- GitHub - For Portfolio Building
 <!--
 **Ea100/Ea100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
