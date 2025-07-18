@@ -32,15 +32,10 @@ This project demonstrates the practical implementation of cybersecurity concepts
 
 ### Tools Used
 ---
+- VirtualBox (Type 2 Hypervisor): Used to create and manage virtual machines
+- Kali Linux (Attacker VM)
+- Windows 10 (Target VM): Simulates a vulnerable system for security testing
 
-- Microsoft Excel [Download Here](https://www.microsoft.com)
-  1. For Data Cleaning
-  2. For Analysis
-  3. For Data Visualization
-- SQL – Structured Query Language for querying of Data
-- PowerBI - Used for creating an interactive dashboard to visualize key insights
-- GitHub - For Portfolio Building
-<!--
 **Ea100/Ea100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
