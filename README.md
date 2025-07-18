@@ -46,17 +46,14 @@ This project demonstrates the practical implementation of cybersecurity concepts
 - BIOS Virtualization: Enabled in host system to support VM performance
 
 ### Networking Setup
+---
+- Network Mode: Internal Network (VirtualBox)
+  1. Both VMs were connected to a private internal network
+  2. This isolated network ensures secure communication between the attacker and target VMs without internet exposure
+ 
+### Connectivity Test
+---
+ 1. Verified network setup by running ping from Kali to the Windows VM.
+ 2. Conducted basic service enumeration using nmap on Kali to scan open ports and running services on the Windows VM.
 
-**Ea100/Ea100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
