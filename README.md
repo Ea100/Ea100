@@ -26,6 +26,7 @@ This project demonstrates the practical implementation of cybersecurity concepts
 ### Tools Used
 ---
 ![Kali Linux IP Address]https://github.com/Ea100/Ea100/blob/main/Kali%20Linux%20IP%20Address.jpg
+Kali Linux IP Address.jpg
 
 
 
