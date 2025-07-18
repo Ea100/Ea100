@@ -5,7 +5,7 @@ As part of my cybersecurity training, I worked on this project to put theory int
 
 [Project Overview](#project-overview)
 
-[Cyber Lab Setup](#data-sources)
+[Cyber Lab Setup](#Cyber-Lab-Setup)
 
 [Tools Used](#tools-used)
 
