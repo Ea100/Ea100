@@ -1,5 +1,5 @@
 # Cyber Security_Capstone_Project
-As part of my cybersecurity training, I worked on this project to put theory into practice. It focuses on building a virtual lab environment and analyzing a mobile forensic image using real-world tools
+As part of my cybersecurity training, I worked on this project to put theory into practice. It focuses on building a virtual lab environment and analyzing a mobile forensic image using real-world tools.
 
 ### Project Title: Building a Virtual Cybersecurity Laboratory and Conducting Android Forensics Investigations
 
